@@ -189,7 +189,7 @@ export default {
       color: '#0F2137',
     },
     muted: {
-      lineHeight: '26px',
+      lineHeight: '26px',                           
       color: 'muted',
     },
     secondary: {
